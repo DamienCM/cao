@@ -1,0 +1,38 @@
+﻿                       PROPRIETES MASSIQUES DE PIÈCE BATI
+
+                         VOLUME =  1.2585655e+06 MM^3
+                     SUPERFICIE =  1.4493423e+05 MM^2
+                MASSE VOLUMIQUE =  2.7000000e-09 TONNE METRIQUE / MM^3
+                          MASSE =  3.3981267e-03 TONNE METRIQUE 
+
+                   CENTRE DE GRAVITE relatif au repère _BATI :
+X   Y   Z           0.0000000e+00  2.5037052e+01 -4.5579643e+00  MM
+
+           INERTIE relative au repère _BATI :  (TONNE METRIQUE * MM^2)
+
+TENSEUR D'INERTIE :
+Ixx Ixy Ixz         2.2627284e+01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.6659592e+01  3.7017851e-01
+Izx Izy Izz         0.0000000e+00  3.7017851e-01  9.8628000e+00
+
+             INERTIE au CENTRE DE GRAVITE relative au repère _BATI :
+                                            (TONNE METRIQUE * MM^2)             
+TENSEUR D'INERTIE :
+Ixx Ixy Ixz         2.0426559e+01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.6588996e+01 -1.7608875e-02
+Izx Izy Izz         0.0000000e+00 -1.7608875e-02  7.7326708e+00
+
+             MOMENTS PRINCIPAUX D'INERTIE :  (TONNE METRIQUE * MM^2)
+I1  I2  I3          7.7326543e+00  2.0426559e+01  2.6589012e+01
+
+        MATRICE ROTATION _BATI orientée par rapport aux AXES PRINCIPAUX :
+                       0.00000        1.00000        0.00000
+                       0.00093        0.00000        1.00000
+                       1.00000        0.00000       -0.00093
+
+   ANGLES DE ROTATION _BATI orientés par rapport aux AXES PRINCIPAUX (degrés):
+angles suivant x y z  -90.054          0.000        -90.000 
+
+               RAYON DE GYRATION PAR RAPPORT AUX AXES PRINCIPAUX :
+R1  R2  R3          4.7702870e+01  7.7531435e+01  8.8456818e+01  MM
+
